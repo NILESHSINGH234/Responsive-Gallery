@@ -17,5 +17,5 @@ I Just Made a Responsive Gallery Website Which give a Intersting Hover Effect Wi
  - Transform Property
 # Live Video 
 https://user-images.githubusercontent.com/131458541/235723560-f71f3361-21f6-4de4-b6e4-bca1a14101cf.mp4
-#Live Link
-https://magical-panda-a24816.netlify.app/
+# Live Link
+[Image Gallery](https://magical-panda-a24816.netlify.app/)
